@@ -1,0 +1,30 @@
+// forward references 
+
+// constants
+
+// members & methods
+
+// class structs
+
+// constructors
+
+// class init
+
+// satisfy forward refernences
+
+
+
+/* *** local / private functions *** */
+// none
+// (__functionName) {}
+
+/* *** OVERRIDES  *** */
+// none
+// (_functionName)
+
+/* *** CLASS METHODS *** */
+// none
+
+
+/* *** CLASS INITIALIZATION *** */
+/* *** CONSTRUCTORS *** */
